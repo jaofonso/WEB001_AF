@@ -1,0 +1,9 @@
+1 - Criar repositório do git;
+2 - Copiar o link https para efetuar a clonagem;
+3 - Já no prompt de comando digite: git clone https://github.com/jaofonso/WEB001_AF.git;
+4 - Criar os arquivos nome.txt;
+5 - Criar o arquivo comandos.txt;
+6 - Voltando no prompt de comando digite o comando git add * para adicionar ao repositório;
+7 - Verificar se foram adicionados com o comando git status;
+8 - Enviar os arquivos para index com o comando git commit -m "Prova final";
+9 - Enviar para head com o comando git push origin master;
